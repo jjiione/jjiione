@@ -20,34 +20,40 @@
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/mysql-icon.svg">
-  &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://velog.velcdn.com/images/sjy0917/post/45b7622b-54df-4f04-bd83-278c33c9bc90/typeorm.png">
-&nbsp
-&nbsp
-&nbsp
-<img alt= "icon" wide="60" height="60" src ="https://cdn4.iconfinder.com/data/icons/redis-2/1451/Untitled-2-512.png">
+ 
   </p> 
+  
+  <p align="center">
+🛵 &nbsp&nbspFramework
+  </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring-000000?logo=Spring">
+  <img src="https://img.shields.io/badge/SpringBoot-FFFFFF?logo=SpringBoot">
+  <img src="https://img.shields.io/badge/Flutter-02569B?logo=Flutter">
+  <img src="https://img.shields.io/badge/Vue.js-FC08D?logo=Vue.js">
+  
+  </p>
   
 <p align="center">
 🛵 &nbsp&nbspAPIs
   </p>
 <p align="center">
 <img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/restapi-icon.svg">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/graphql-icon.svg">
-<img alt= "icon" wide="60" height="60" src ="https://symbols.getvecta.com/stencil_89/37_nestjs-icon.a67daec196.svg">
   </p>
 <p align="center">
 🚀 &nbsp&nbspdeploy
   </p>
 <p align="center">
-<img alt= "icon" wide="65" height="65" src ="https://techstack-generator.vercel.app/docker-icon.svg">
-<img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/kubernetes-icon.svg">
-&nbsp
 <img alt= "icon" wide="60" height="60" src="https://techstack-generator.vercel.app/aws-icon.svg">
 &nbsp
 <img alt= "icon" wide="60" height="60" src="https://lirp.cdn-website.com/aa0ef369/dms3rep/multi/opt/google-cloud-icon-570w.png">
 <img alt= "icon" wide="60" height="60" src ="https://techstack-generator.vercel.app/github-icon.svg">
-</p>  
+  
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/Firebase-FFFFFF?logo=Firebase">
+ <img src="https://img.shields.io/badge/Gitlab-000000?logo=Gitlab">
+  </p>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=javva)](https://solved.ac/javva/)
 
