@@ -59,7 +59,7 @@
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=jjiione&show_icons=true&count_private=true&theme=swift" height="150">
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jjiione&show_icons=true&count_private=true&theme=swift" height="150"> -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjiione&layout=compact&hide_border=true&theme=swift" height="150">
 </div>
 
